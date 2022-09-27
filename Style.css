@@ -17,6 +17,10 @@ h3 {
 h3:hover {
     /*background-color: orange;*/
     cursor: pointer;
+    
+    fieldset {
+        color: blue;
+    }
 }
 .btn-primary {
     color: deeppink;
