@@ -2,34 +2,20 @@ body {
     background-color: #1C1C1E;
 }
 h1 {
-    max-height: 200px;
     margin-top: 25px;
     margin-bottom: 90px;
     color: red;
-           text-align: center;
+    text-align: center;
 }
 
   fieldset {
-        color: blue;
+        color:orange;
     }
 
 
 h3 {
     font-size: 35px;
     color: green;
-     text-align: center;
+    text-align: center;
     padding: 10px;
-}
-h3:hover {
-    /*background-color: orange;*/
-    cursor: pointer;
-    
-  
-}
-.btn-primary {
-    color: deeppink;
-}
-.btn-primary:hover {
-    background-color: darkslategrey;
-    border: 2px dashed aqua;
 }
