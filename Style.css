@@ -8,6 +8,11 @@ h1 {
     color: red;
            text-align: center;
 }
+
+  fieldset {
+        color: blue;
+    }
+
 h3 {
     font-size: 35px;
     color: green;
@@ -18,9 +23,7 @@ h3:hover {
     /*background-color: orange;*/
     cursor: pointer;
     
-    fieldset {
-        color: blue;
-    }
+  
 }
 .btn-primary {
     color: deeppink;
