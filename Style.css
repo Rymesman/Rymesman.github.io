@@ -3,18 +3,17 @@ body {
 }
 h1 {
     max-height: 200px;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    color: lawngreen;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    color: red;
+    background-overly: screen;
         text-align: center;
 }
 h3 {
-    font-size: 20px;
-    color: rgba(0, 0,225, 0.5);
-    /*border: 1px solid black;
-    background-color: darkred;*/
-    text-align: center;
-    padding: 3px;
+    font-size: 35px;
+    color: green;
+     text-align: center;
+    padding: 10px;
 }
 h3:hover {
     /*background-color: orange;*/
